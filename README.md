@@ -1,2 +1,2 @@
 # Pantry2Me
-This is a description of the Pantry2Me project. This is a project that allows users to find local food pantries nearby. This app also allows users to take the ingredients they’ve collected from the food pantry and generate recipes based on those ingredients provided.
+Pantry2Me is a project that allows users to find local food pantries nearby. This app also allows users to take the ingredients they’ve collected from the food pantry and generate recipes based on those ingredients provided. It serves to increase accessibility to food and other essentials while also providing guidance on the best ways to prepare what is available. This was a final group project for a Mobile App Development course.
